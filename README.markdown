@@ -1,6 +1,16 @@
 Creative Design
 ================
 
+http://github.com/parolkar/creative-design/raw/master/ValentinaStyle/ValentinaStyle_before_after.png
+
+ValentinaStyle (Photo enhancement)
+----------------------------------
+<div style="width:1024px; padding:1px; border:1px solid silver; float:right; margin:0 0 1em 2em; background:white">
+  <img src="http://github.com/parolkar/creative-design/raw/master/ValentinaStyle/ValentinaStyle_before_after.png" alt="Valentina: before and after" />
+  <p style="text-align:center">Checkout the <a href="http://github.com/parolkar/creative-design/raw/master/ValentinaStyle/MakingOfValentinaStyle.png" title="MakingOfValentina"><b>making of ValentinaStyle</b></a></p>
+</div>
+
+
 
 Ruby Lights
 -----------
