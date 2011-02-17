@@ -5,8 +5,8 @@ Creative Design
 ValentinaStyle (Photo enhancement)
 ----------------------------------
 <div style="width:100%; padding:1px; border:1px solid silver; float:right; margin:0 0 1em 2em; background:white">
-  <img width="850px" src="http://github.com/parolkar/creative-design/raw/master/ValentinaStyle/ValentinaStyle_before_after.png" alt="Valentina: before and after" />
-  <p style="text-align:center">Checkout the <a href="http://github.com/parolkar/creative-design/raw/master/ValentinaStyle/MakingOfValentinaStyle.png" title="MakingOfValentina"><b>making of ValentinaStyle</b></a></p>
+  <img width="850px" src="https://github.com/parolkar/creative-design/raw/master/ValentinaStyle/ValentinaStyle_before_after.png" alt="Valentina: before and after" />
+  <p style="text-align:center">Checkout the <a href="https://github.com/parolkar/creative-design/raw/master/ValentinaStyle/MakingOfValentinaStyle.png" title="MakingOfValentina"><b>making of ValentinaStyle</b></a></p>
 </div>
 
 
